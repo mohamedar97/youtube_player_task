@@ -8,7 +8,7 @@
           type="text/html"
           width="100%"
           height="500"
-          :src="`http://www.youtube.com/embed/${id}?enablejsapi=1&origin=http://example.com`"
+          :src="`https://www.youtube.com/embed/${id}?enablejsapi=1&origin=http://example.com`"
           frameborder="0"
         ></iframe>
       </v-card-actions>
